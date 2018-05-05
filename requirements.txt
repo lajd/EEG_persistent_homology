@@ -1,0 +1,8 @@
+scipy==0.16.1
+numpy==1.14.2
+matplotlib==2.0.0
+Cython==0.27.3
+setuptools==38.5.2
+networkx==1.11
+pandas==0.17.1
+chartio==6.0.1
